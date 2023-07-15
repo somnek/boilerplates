@@ -1,2 +1,2 @@
-# boilerplates
-collections of boilerplate that i commonly use, so i don't have to look things up all the time.
+# 🍽️ boilerplates
+This repository contains a collection of boilerplate code snippets that I use for various programming languages and frameworks. It serves as a reference and time-saving resource for setting up new projects.
